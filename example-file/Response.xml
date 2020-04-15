@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http:SpringWebServices.webServices.com/course"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http:SpringWebServices.webServices.com/course Course-details.xsd">
+	<CourseDetails>
+		<id>123</id>
+		<name>Spring Boot</name>
+		<discription>know about Spring boot</discription>
+	</CourseDetails>
+</GetCourseDetailsResponse>
